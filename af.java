@@ -1,5 +1,10 @@
 class AF{
 	public static void main(){
-	//code
+	//code1
 	}
+	
+	public static void main(){
+	//code2
+	}
+	
 }
